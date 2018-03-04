@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "AskIntent"
+    },
+    {
+      "intent": "AskThreeIntent"
+    },
+    {
+      "intent": "AskFourIntent"
+    },
+    {
+      "intent": "AskAWSIntent"
+    },
+    {
+      "intent": "AskReasonsIntent"
+    },
+    {
+      "intent": "AskDescriptionFirst"
+    },
+    {
+      "intent": "AskDescriptionSecond"
+    },
+    {
+      "intent": "AskDescriptionThird"
+    },
+    {
+      "intent": "AskDescriptionFourth"
+    }
+  ]
+}

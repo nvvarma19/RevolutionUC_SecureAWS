@@ -1,0 +1,13 @@
+YesIntent yes
+YesIntent show results section one
+YesIntent sure
+NoIntent no
+AskIntent to show results for logging section
+AskThreeIntent to show results for monitoring section
+AskFourIntent to show results for networking section
+AskAWSIntent how secure is my amazon environment
+AskReasonsIntent why did the tests fail
+AskDescriptionFirst to explain first domain benchmarks
+AskDescriptionSecond to explain second domain benchmarks
+AskDescriptionThird to explain third domain benchmarks
+AskDescriptionFourth to explain fourth domain benchmarks
